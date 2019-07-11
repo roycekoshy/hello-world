@@ -1,6 +1,5 @@
 # hello-world
-First GITHub program
+This ones going to have almost nothing - haha 
+Deletion branch strikes!
 
-Modifying the Hello-World program on the readme-edits branch on github; 
-
-Also a few other differences for fun. 
+Actually want to try out a few other things before it all goes down!
